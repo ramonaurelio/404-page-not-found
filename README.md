@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://fancy-truffle-c80f1b.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ramonaurelio/404-page-not-found">
       Solution
     </a>
     <span> | </span>
@@ -40,7 +40,7 @@
 ![screenshot](./img/404-not-found-responsive.png)
 
 I really enjoyed the short time working on this project. I improved on the use of the grid property in CSS3.
-You can find the demo of the webpage [here](https://)
+You can find the demo of the webpage [here](https://fancy-truffle-c80f1b.netlify.app/)
 
 ### Built With
 
